@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "774594227991",
+    "project_id": "authfirebase-39419",
+    "storage_bucket": "authfirebase-39419.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:774594227991:android:c900937503306aad0b9152",
+        "android_client_info": {
+          "package_name": "com.example.firebase_auth_tutorial"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkYGfjWolfxQHgNBJ9f6HFFPKwbY-nih8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
